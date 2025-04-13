@@ -1,9 +1,10 @@
-## Contributors
+# RGBOARD Projects
 
-- *Marianyelis Jimenez Mercedes* (marianyelis.jimenez1@upr.edu)
-- *Irsaris Pérez Rodríguez* (irsaris.perez@upr.edu)
-- *Jandel Rodríguez Vázquez* (jandel.rodriguez@upr.edu)
-- *Edimar Valentín Kery* (edimar.valentin@upr.edu)
+## Contributors
+- Marianyelis Jimenez Mercedes (marianyelis.jimenez1@upr.edu)
+- Irsaris Pérez Rodríguez (irsaris.perez@upr.edu)
+- Jandel Rodríguez Vázquez (jandel.rodriguez@upr.edu)
+- Edimar Valentín Kery (edimar.valentin@upr.edu)
 
 ## Project Directory
 
