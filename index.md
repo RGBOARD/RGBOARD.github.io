@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="custom.css">
+
 # RGBOARD
 
 ## Team Members
