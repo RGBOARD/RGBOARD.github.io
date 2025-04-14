@@ -22,9 +22,11 @@ a {
   color: blue; /* Change link color */
 }
 
-hr {
-  border: none !important;
-  border-top: 3px solid #a7a7a8 !important; 
-  margin: 2em 0 !important;
+.main-content hr {
+    height: 2px;
+    padding: 0;
+    margin: 1rem 0;
+    background-color: #a7a7a8;
+    border: 0;
 }
 
