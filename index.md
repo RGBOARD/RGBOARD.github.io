@@ -4,7 +4,6 @@
   <img src="RGB-Icon.png" alt="Project Logo" width="200"/>
 </p>
 
-# RGBOARD
 
 ## Team Members
 - Marianyelis Jimenez Mercedes  (marianyelis.jimenez1@upr.edu)
