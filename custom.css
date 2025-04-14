@@ -4,11 +4,15 @@ body {
 }
 
 .page-header {
-  background-image: linear-gradient(90deg, yellow, blue, red) !important;
+  background-image: linear-gradient(135deg, red, green, blue) !important;
   color: white !important;
   background-color: transparent !important; /* Fallback just in case */
 }
 
 a {
-  color: #c0392b; /* Change link color */
+  color: blue; /* Change link color */
+}
+
+h2, h3, h4, h5, h6 {
+  color: black !important;
 }
