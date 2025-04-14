@@ -4,10 +4,10 @@ body {
 }
 
 .page-header {
-  background-color: #4CAF50; /* Change the header color */
+  background-color: #c0392b; /* Change the header color */
   color: white;              /* Change header text color */
 }
 
 a {
-  color: #4CAF50; /* Change link color */
+  color: #c0392b; /* Change link color */
 }
