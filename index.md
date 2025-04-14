@@ -1,5 +1,9 @@
 <link rel="stylesheet" href="custom.css">
 
+<p align="center">
+  <img src="RGB-Icon.png" alt="Project Logo" width="200"/>
+</p>
+
 # RGBOARD
 
 ## Team Members
