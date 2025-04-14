@@ -10,13 +10,13 @@
 
 ## Project Directory
 
-### Webapp
+### • Webapp
 Web-based system using a Raspberry Pi-powered LED display to show dynamic visuals.
 
 - [View Project](https://RGBOARD.github.io/webapp)
 - [View Code](https://github.com/RGBOARD/webapp)
 
-### Display
+### • Display
 Library used to control 64x64 RGB LED panels via Raspberry Pi GPIO.
 
 - [View Project](https://RGBOARD.github.io/display)
