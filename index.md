@@ -25,7 +25,7 @@ Library used to control 64x64 RGB LED panels via Raspberry Pi GPIO.
 - [View Project](https://RGBOARD.github.io/display)
 - [View Code](https://github.com/RGBOARD/display)
 
----
+<hr>
 
 #### About the project
 This project is a dynamic, web-managed communication system designed for the IEEE Computer Society at the University of Puerto Rico, Mayagüez Campus (UPRM). 
