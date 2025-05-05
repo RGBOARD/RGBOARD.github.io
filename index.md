@@ -12,7 +12,7 @@
 - Edimar Valentín Kery  (edimar.valentin@upr.edu)
 
 ## Presentation
-<a href="placeholder">View the fina presentation</a>
+<a href="placeholder">View presentation</a>
 
 ## Project Directory
 
