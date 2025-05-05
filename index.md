@@ -11,6 +11,9 @@
 - Jandel Rodríguez Vázquez  (jandel.rodriguez@upr.edu)
 - Edimar Valentín Kery  (edimar.valentin@upr.edu)
 
+## Presentation
+<a href="placeholder">View the fina presentation</a>
+
 ## Project Directory
 
 ### • Webapp
