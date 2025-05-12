@@ -12,7 +12,7 @@
 - Edimar Valentín Kery  (edimar.valentin@upr.edu)
 
 ## Presentation
-<a href="/RGBOARD/RGBOARD.github.io/main/RGBoard%20presentation.pdf">View presentation</a>
+<a href="RGBoard presentation.pdf">View presentation</a>
 
 ## Project Directory
 
